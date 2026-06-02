@@ -1,0 +1,2 @@
+﻿BookingID,GuestID,BookingDate,RoomNo,CheckInDate,CheckInTime,CheckOutDate,CheckOutTime,Guests
+1,G-101,6/1/2026,205,6/2/2026,14:00,6/5/2026,12:00,2
